@@ -19,7 +19,8 @@
       "dockerDashComposeVersion": "v2"
     },
     "ghcr.io/devcontainers/features/ruby:1": {
-      "version": "3.0.0"
+      "version": "3.0.0",
+      "installRubyTools": false
     },
     "ghcr.io/devcontainers/features/git:1": {
       "ppa": true,
